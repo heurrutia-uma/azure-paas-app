@@ -4,7 +4,7 @@
   "description": "Ejercicio de despliegue de aplicación en Azure",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"No tests specified yet\"",
     "start": "node app.js"
   },
   "repository": {
