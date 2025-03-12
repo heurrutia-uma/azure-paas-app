@@ -9,7 +9,7 @@ app.use(express.json());
 import studentRoutes from './routes/students.js';
 app.use('/students', studentRoutes);
 
-const PORT = 3000
+const PORT = 80
 sequelize.sync()
     .then(() => {
         console.log('Base de datos sincronizada');

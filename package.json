@@ -4,7 +4,6 @@
   "description": "Ejercicio de despliegue de aplicación en Azure",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests specified yet\"",
     "start": "node app.js"
   },
   "repository": {
